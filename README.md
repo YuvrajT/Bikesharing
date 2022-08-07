@@ -47,5 +47,5 @@ This analysis will provide an bigger picture to investors looking to start the b
 - Its evident that the bike sharing start up business is definitely worth taking a shot. From the above analysis we can determine and anticipate the in demand area of city and getting bikes to the location. Definitely the most important aspect would be to converst customer into subscribers for consistent cash flow. 
 
 - Two additional visualizations:
-  1. if the data woud have included the $ cost of reapirs, I would have looked into to see if there is any co-relation between the trip duartion and cost of reapirs. 
+  1. If the data woud have included the $ cost of reapirs, I would have looked into to see if there is any co-relation between the trip duartion and cost of reapirs. 
   2. Availability of bikes in most demand location, whether clients have to wait or bikes are available easly. 
