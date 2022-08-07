@@ -2,7 +2,7 @@
 
 ## Overview
 
-To view the complete Tableau story please use this [link to Tableau Dashboard](https://public.tableau.com/app/profile/yuvraj.taneja/viz/BikeSharingAnalysis_16598262430740/BikeSharingAnalysis)
+To view the complete Tableau story please use this [link to Tableau Dashboard](https://public.tableau.com/app/profile/yuvraj.taneja/viz/BikeSharingAnalysis_16598262430740/BikeSharingAnalysis).
 
 This analysis will provide an bigger picture to investors looking to start the bike sharing business in Des Moines. The analysis will answer few key questions such as:
 
